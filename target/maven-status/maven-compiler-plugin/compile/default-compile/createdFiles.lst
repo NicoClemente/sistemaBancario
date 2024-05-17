@@ -1,0 +1,17 @@
+ar\edu\utn\frbb\tup\Modelo\SimpleAdder.class
+ar\edu\utn\frbb\tup\App.class
+ar\edu\utn\frbb\tup\inputProcessor\MovimientoRepositorioImpl.class
+ar\edu\utn\frbb\tup\Modelo\Persona.class
+ar\edu\utn\frbb\tup\utils\UtilidadesFecha.class
+ar\edu\utn\frbb\tup\Modelo\Banco.class
+ar\edu\utn\frbb\tup\Modelo\Cuenta.class
+ar\edu\utn\frbb\tup\inputProcessor\CuentaRepositorioImpl.class
+ar\edu\utn\frbb\tup\inputProcessor\CuentaInputProcessor.class
+ar\edu\utn\frbb\tup\Modelo\TipoPersona.class
+ar\edu\utn\frbb\tup\inputProcessor\BaseInputProcessor.class
+ar\edu\utn\frbb\tup\Modelo\Movimiento.class
+ar\edu\utn\frbb\tup\inputProcessor\ClienteInputProcessor.class
+ar\edu\utn\frbb\tup\inputProcessor\MenuInputProcessor.class
+ar\edu\utn\frbb\tup\inputProcessor\MovimientoInputProcessor.class
+ar\edu\utn\frbb\tup\Modelo\Cliente.class
+ar\edu\utn\frbb\tup\inputProcessor\ClienteRepositorioImpl.class
